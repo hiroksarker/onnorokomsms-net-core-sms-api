@@ -9,7 +9,7 @@ Reference:
 For Details: https://onnorokomsms.com
 API URL: https://api2.onnorokomsms.com/HttpSendSms.ashx
 
-# Using UserName and Password (GET Request)
+## Using UserName and Password (GET Request)
 Method | Description
 --- | ---
 OneToOne | Single SMS Send Method
@@ -19,7 +19,7 @@ DeliveryStatus | Single SMS Send Method
 GetBalance | Return Delivery Status
 OneToOne | Balance Check
 
-# Using API Key (POST Request)
+## Using API Key (POST Request)
 Method | Description
 --- | ---
 NumberSms | Single SMS Send Method
